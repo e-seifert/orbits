@@ -1,0 +1,22 @@
+﻿Build started 12/4/2015 12:44:33 PM.
+     1>Project "E:\SSD340\ES_SSD340 - Final_Project\ES_SSD340-Final_Project - Electron_Orbits\ES_SSD340_Final_Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\ssd340\es_ssd340 - final_project\es_ssd340-final_project - electron_orbits\source.cpp(25): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\ssd340\es_ssd340 - final_project\es_ssd340-final_project - electron_orbits\source.cpp(38): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\ssd340\es_ssd340 - final_project\es_ssd340-final_project - electron_orbits\source.cpp(39): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\ssd340\es_ssd340 - final_project\es_ssd340-final_project - electron_orbits\source.cpp(40): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\ssd340\es_ssd340 - final_project\es_ssd340-final_project - electron_orbits\source.cpp(99): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>e:\ssd340\es_ssd340 - final_project\es_ssd340-final_project - electron_orbits\source.cpp(101): warning C4305: '=' : truncation from 'double' to 'float'
+     1>e:\ssd340\es_ssd340 - final_project\es_ssd340-final_project - electron_orbits\source.cpp(102): warning C4305: '=' : truncation from 'double' to 'float'
+     1>e:\ssd340\es_ssd340 - final_project\es_ssd340-final_project - electron_orbits\source.cpp(720): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>e:\ssd340\es_ssd340 - final_project\es_ssd340-final_project - electron_orbits\source.cpp(723): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\SSD340\ES_SSD340 - Final_Project\ES_SSD340-Final_Project - Electron_Orbits\Debug\ES_SSD340_Final_Project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\SSD340\ES_SSD340 - Final_Project\ES_SSD340-Final_Project - Electron_Orbits\Debug\ES_SSD340_Final_Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\SSD340\ES_SSD340 - Final_Project\ES_SSD340-Final_Project - Electron_Orbits\Debug\ES_SSD340_Final_Project.lib" /MACHINE:X86 Debug\Source.obj
+         ES_SSD340_Final_Project.vcxproj -> E:\SSD340\ES_SSD340 - Final_Project\ES_SSD340-Final_Project - Electron_Orbits\Debug\ES_SSD340_Final_Project.exe
+     1>Done Building Project "E:\SSD340\ES_SSD340 - Final_Project\ES_SSD340-Final_Project - Electron_Orbits\ES_SSD340_Final_Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.66
